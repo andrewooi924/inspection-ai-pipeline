@@ -1,0 +1,39 @@
+[
+  {
+    "pattern_id": "P01",
+    "title": "Recurring Solder Voiding near Solder Joint J4 and BGA Regions",
+    "supporting_report_ids": [
+      "R01",
+      "R04",
+      "R06",
+      "R08",
+      "R10"
+    ],
+    "pattern_strength": "strong",
+    "likely_driver": "Process inconsistency in soldering causing void clusters near critical joints (J4 and BGA areas) across multiple product lines and stations.",
+    "recommended_action": "Investigate soldering process parameters and equipment calibration at XRay stations (XRay-02, XRay-03, XRay-01). Implement tighter process controls and increase inspection frequency for early detection."
+  },
+  {
+    "pattern_id": "P02",
+    "title": "Pin Misalignment on Battery Connector Housing Left Edge",
+    "supporting_report_ids": [
+      "R02",
+      "R09"
+    ],
+    "pattern_strength": "moderate",
+    "likely_driver": "Assembly or fixture misalignment causing slight pin shifts on the left edge of connectors.",
+    "recommended_action": "Review and adjust assembly fixtures and operator training for pin placement. Consider additional manual inspection or automated alignment verification."
+  },
+  {
+    "pattern_id": "P03",
+    "title": "Recurring Surface Scratches on Sensor Mount Bracket and Shielded Micro Board",
+    "supporting_report_ids": [
+      "R03",
+      "R05",
+      "R07"
+    ],
+    "pattern_strength": "moderate",
+    "likely_driver": "Handling or rework processes causing surface scratches on bracket arms and board edges.",
+    "recommended_action": "Evaluate handling procedures and rework processes to minimize surface damage. Implement protective measures and operator awareness training."
+  }
+]

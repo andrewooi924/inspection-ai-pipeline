@@ -1,0 +1,14 @@
+{
+  "alert_rating": "red",
+  "justification": {
+    "top_reports": [
+      "R08",
+      "R04",
+      "R06",
+      "R03",
+      "R07"
+    ],
+    "pattern_count": 3
+  },
+  "recommended_operational_posture": "Increase inspection frequency and perform engineering containment review."
+}

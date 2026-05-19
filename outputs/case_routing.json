@@ -1,0 +1,42 @@
+[
+  {
+    "report_id": "R08",
+    "teams": [
+      "Process Engineering",
+      "Quality"
+    ],
+    "briefing_note": "High severity solder voiding issue with a strong recurring pattern (P01) near BGA region. Recommended to investigate soldering process parameters and equipment calibration at XRay stations and implement tighter process controls."
+  },
+  {
+    "report_id": "R04",
+    "teams": [
+      "Process Engineering",
+      "Quality"
+    ],
+    "briefing_note": "High severity solder voiding with multiple dark regions around BGA, repeated pattern (P01). Investigate soldering process and equipment calibration at XRay stations to control void clusters."
+  },
+  {
+    "report_id": "R06",
+    "teams": [
+      "Process Engineering",
+      "Quality"
+    ],
+    "briefing_note": "High severity solder voiding near J4 with a recurring defect pattern (P01). Process inconsistency suspected; review soldering parameters and inspection frequency."
+  },
+  {
+    "report_id": "R03",
+    "teams": [
+      "Manufacturing",
+      "Quality"
+    ],
+    "briefing_note": "Medium severity surface scratch on Sensor Mount Bracket, part of recurring surface scratch pattern (P03). Evaluate handling and rework processes to reduce surface damage."
+  },
+  {
+    "report_id": "R07",
+    "teams": [
+      "Manufacturing",
+      "Quality"
+    ],
+    "briefing_note": "Medium severity recurring surface scratch on bracket arm (P03). Recommend reviewing handling procedures and operator training to minimize scratches."
+  }
+]

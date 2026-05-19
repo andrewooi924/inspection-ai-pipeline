@@ -1,0 +1,9 @@
+{
+  "defect_distribution": {
+    "solder_voiding": 5,
+    "pin_misalignment": 2,
+    "surface_scratch": 3
+  },
+  "most_affected_station": "XRay-02",
+  "worsening_pattern_detected": true
+}

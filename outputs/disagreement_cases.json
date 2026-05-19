@@ -1,0 +1,7 @@
+[
+  {
+    "report_id": "R10",
+    "disagreement_reason": "Low confidence but elevated interpreted severity.",
+    "recommended_follow_up": "Manual engineering review and secondary inspection validation."
+  }
+]
